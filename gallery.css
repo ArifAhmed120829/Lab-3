@@ -1,0 +1,177 @@
+
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: blueviolet;
+}
+.header .logo{
+    width: 20%;
+    height: 150px;
+    background-color: antiquewhite;
+    float: left;
+}
+.header .banner{
+    width: 80%;
+    height: 150px;
+    background-color: yellow;
+    float: left;
+}
+.imgresponsive{
+    width: 100%;
+    height: 100%;
+}
+
+.Box{
+    width: 100%;
+    height: 750px;
+    background-color: rgb(129, 24, 190);
+    float: left;
+    margin: 3px;
+}
+
+.Box .BoxOne{
+    height: 250px;
+    width: 30%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(3.jpg);
+    background-size: cover;
+
+}
+.Box .BoxOne:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxTwo{
+    height: 250px;
+    width: 30%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(4.jpg);
+    background-size: cover;
+
+}
+.Box .BoxTwo:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxThree{
+    height: 250px;
+    width: 30%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(5.jpg);
+    background-size: cover;
+
+}
+.Box .BoxThree:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxFour{
+    height: 250px;
+    width: 25%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(6.jpg);
+    background-size: cover;
+
+}
+.Box .BoxFour:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxFive{
+    height: 250px;
+    width: 25%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(7.jpg);
+    background-size: cover;
+
+}
+.Box .BoxFive:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxSix{
+    height: 250px;
+    width: 25%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(8.jpg);
+    background-size: cover;
+
+}
+.Box .BoxSix:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxSeven{
+    height: 220px;
+    width: 25%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(9.jpg);
+    background-size: cover;
+
+}
+.Box .BoxSeven:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxEight{
+    height: 220px;
+    width: 25%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(10.jpg);
+    background-size: cover;
+
+}
+.Box .BoxEight:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+.Box .BoxNine{
+    height: 220px;
+    width: 25%;
+    background-color: royalblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    transform: rotate(0deg) scale(1);
+    transition: all 2s;
+    background-image: url(11.jpg);
+    background-size: cover;
+
+}
+.Box .BoxNine:hover{
+    transform: rotate(200deg) scale(1.5);
+}
+
+

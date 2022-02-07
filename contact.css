@@ -1,0 +1,22 @@
+
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: blueviolet;
+}
+.header .logo{
+    width: 20%;
+    height: 150px;
+    background-color: antiquewhite;
+    float: left;
+}
+.header .banner{
+    width: 80%;
+    height: 150px;
+    background-color: yellow;
+    float: left;
+}
+.imgresponsive{
+    width: 100%;
+    height: 100%;
+}
